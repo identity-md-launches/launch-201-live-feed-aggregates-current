@@ -1,0 +1,5 @@
+[
+  { "id": "Bluesky", "kind": "bluesky", "enabled": true },
+  { "id": "Reddit", "kind": "reddit", "enabled": true },
+  { "id": "X", "kind": "x", "enabled": false }
+]

@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "mode": "preview",
+  "generatedAt": "2026-09-27T00:00:00Z",
+  "entries": [
+    {
+      "id": "preview-1",
+      "source": "Web",
+      "type": "Article",
+      "author": "Identity-MD field notes",
+      "handle": "imd.fun",
+      "title": "A swarm in the sky. A feed on the ground.",
+      "text": "Identity-MD brings a community of contributors together to build in public. Signal puts the conversations, ideas and things they make in one chronological feed.\n\nThis is an illustrative entry, written to demonstrate the reader. The project\u2019s live website describes a contributor network: one swarm seat per Identity.MD NFT. Contributors connect an agent to take jobs and earn.\n\nOpen the project website for current information. This preview is not an announcement from the Identity-MD team.",
+      "publishedAt": "2026-09-26T18:30:00Z",
+      "url": "https://imd.fun/",
+      "image": "./assets/swarm.svg",
+      "imageAlt": "A green geometric network: a swarm in the sky.",
+      "tags": [
+        "Ecosystem",
+        "Building in public"
+      ],
+      "example": true
+    },
+    {
+      "id": "preview-2",
+      "source": "X",
+      "type": "Post",
+      "author": "A swarm contributor",
+      "handle": "example contributor",
+      "title": "Good ideas should travel further than the timeline.",
+      "text": "The best part of building around Identity-MD? Seeing someone pick up an idea, add their own perspective, and turn it into something useful. More context, fewer ticker-only posts.\n\nA good feed should preserve that context. Original posts belong here; repeated copies, replies without context, and engagement bait do not.\n\nThis example shows how a substantive top-level post expands without sending you to another tab.",
+      "publishedAt": "2026-09-26T17:30:00Z",
+      "url": "https://x.com/search?q=Identity-MD",
+      "image": null,
+      "imageAlt": null,
+      "tags": [
+        "Community"
+      ],
+      "example": true
+    },
+    {
+      "id": "preview-3",
+      "source": "YouTube",
+      "type": "Video",
+      "author": "The contributor notebook",
+      "handle": "example video",
+      "title": "Inside the swarm: from an idea to a working project",
+      "text": "A video entry can bring the whole process into view: finding a useful problem, building a small solution, and sharing what you learned.\n\nPreview video outline\n\n00:00 \u2014 What is the Identity-MD contributor network?\n02:15 \u2014 Choosing a bounded task\n05:40 \u2014 Building and checking the result\n09:20 \u2014 Sharing the finished work\n\nThis is an illustrative video card, not a published video. Live entries link to the original video; supported direct video files play here.",
+      "publishedAt": "2026-09-26T16:30:00Z",
+      "url": "https://www.youtube.com/results?search_query=Identity-MD",
+      "image": null,
+      "imageAlt": null,
+      "tags": [
+        "Explainer",
+        "Builders"
+      ],
+      "example": true
+    },
+    {
+      "id": "preview-4",
+      "source": "Bluesky",
+      "type": "Post",
+      "author": "Open network notes",
+      "handle": "example contributor",
+      "title": "A small case for quieter feeds",
+      "text": "Following $IMD should not mean scrolling through the same post twelve times. Give me the original, enough context to understand it, and the choice to keep reading.\n\nSignal\u2019s collector compares normalized text and canonical links before publishing an entry. Similar copies are grouped around the earliest available original.\n\nMemes and images still have a place. A short caption is not the same thing as a low-effort post.",
+      "publishedAt": "2026-09-26T15:30:00Z",
+      "url": "https://bsky.app/search?q=Identity-MD",
+      "image": null,
+      "imageAlt": null,
+      "tags": [
+        "Community",
+        "Signal"
+      ],
+      "example": true
+    },
+    {
+      "id": "preview-5",
+      "source": "Mirror",
+      "type": "Article",
+      "author": "The open notebook",
+      "handle": "example publication",
+      "title": "What does it mean to build in public?",
+      "text": "A practical look at the small habits that make an open contributor network work: share the attempt, document the decisions, and leave something useful behind.\n\nFor an Identity-MD contributor, a useful artifact might be a tool, a piece of research, or a website. The common thread is work that another person can inspect and build on.\n\nThis illustrative article demonstrates long-form reading in the feed. Full imported text is shown when the source provides it; excerpts are identified and linked to their original.",
+      "publishedAt": "2026-09-26T14:30:00Z",
+      "url": "https://mirror.xyz/",
+      "image": null,
+      "imageAlt": null,
+      "tags": [
+        "Building in public"
+      ],
+      "example": true
+    },
+    {
+      "id": "preview-6",
+      "source": "Reddit",
+      "type": "Image",
+      "author": "Swarm sketchbook",
+      "handle": "example community",
+      "title": "I was only going to check the feed for five minutes.",
+      "text": "One more idea for the Identity-MD swarm.\n\nAn original illustration made for this preview. Image-first posts are welcome in the feed, even with short captions.",
+      "publishedAt": "2026-09-26T13:30:00Z",
+      "url": "https://www.reddit.com/search/?q=Identity-MD",
+      "image": "./assets/meme.svg",
+      "imageAlt": "A robot at its desk: just checking the feed, three ideas and a pull request later.",
+      "tags": [
+        "Memes",
+        "Community"
+      ],
+      "example": true
+    },
+    {
+      "id": "preview-7",
+      "source": "Web",
+      "type": "Story",
+      "author": "Around the ecosystem",
+      "handle": "example story",
+      "title": "One project, many places to follow it",
+      "text": "From contributor notes to project explainers, a useful Identity-MD story can start almost anywhere.\n\nRSS and Atom sources can be added to the collector alongside the supported social APIs. Platform access depends on each source\u2019s public feeds and API terms.\n\nThis preview story demonstrates an expandable entry from another website.",
+      "publishedAt": "2026-09-26T12:30:00Z",
+      "url": "https://imd.fun/docs/",
+      "image": null,
+      "imageAlt": null,
+      "tags": [
+        "Ecosystem"
+      ],
+      "example": true
+    },
+    {
+      "id": "preview-8",
+      "source": "X",
+      "type": "Post",
+      "author": "A builder\u2019s notes",
+      "handle": "example contributor",
+      "title": "The small details are the product.",
+      "text": "Readable text. Useful filters. An undo button. Making the Identity-MD conversation easier to follow starts with getting the ordinary things right.\n\nThis is a sample community post. Try saving it, hiding it, switching the layout, or filtering to a single source. Your reading preferences stay in this browser.",
+      "publishedAt": "2026-09-26T11:30:00Z",
+      "url": "https://x.com/search?q=Identity-MD",
+      "image": null,
+      "imageAlt": null,
+      "tags": [
+        "Builders"
+      ],
+      "example": true
+    }
+  ],
+  "health": [
+    {
+      "name": "Preview edition",
+      "ok": false,
+      "detail": "Illustrative entries. Live sources are not connected."
+    }
+  ]
+}

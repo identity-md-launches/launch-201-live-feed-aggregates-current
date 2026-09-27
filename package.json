@@ -1,0 +1,33 @@
+{
+  "name": "imd-signal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test server/*.test.ts src/*.test.ts",
+    "collect": "tsx server/collect.ts",
+    "check:bundle": "node scripts/check-bundle.mjs",
+    "test:browser": "node scripts/browser-check.mjs"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "lucide-react": "^0.468.0",
+    "fast-xml-parser": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "^5.8.3",
+    "vite": "^7.1.0",
+    "tsx": "^4.20.0",
+    "playwright": "^1.63.0",
+    "@axe-core/playwright": "^4.13.0"
+  }
+}
